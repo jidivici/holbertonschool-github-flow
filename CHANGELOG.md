@@ -1,3 +1,3 @@
-##v1.0.0
-- <bullet describing the introduction and history updates>
-- <bullet describing the conflict resolution in docs/collaboration.md>
+## v1.0.0
+- Updated the tag system with a changelog.md
+- Resolved conflicts in the collaboration document to ensure consistency
